@@ -20,9 +20,4 @@ Contributors: Dirk Eddelbuettel, Jan Humme, Lance Levenson, Ben McCann,
 URL: https://r-forge.r-project.org/projects/blotter/
 Copyright: (c) 2008-2014
 ByteCompile: TRUE
-Repository: R-Forge
-Repository/R-Forge/Project: blotter
-Repository/R-Forge/Revision: 1627
-Repository/R-Forge/DateTimeStamp: 2014-08-01 16:04:04
-Date/Publication: 2014-08-01 16:04:04
-Packaged: 2014-08-01 18:15:15 UTC; rforge
+
